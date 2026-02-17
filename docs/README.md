@@ -9,9 +9,9 @@ This directory contains project documentation including:
 
 ## Structure
 
-Place your documentation files here following these guidelines:
+You can organize your documentation files following these optional guidelines:
 
 - `images/` - Screenshots, diagrams, and photos
-- `presentations/` - PowerPoint and other presentation files
-- `guides/` - User manuals and technical guides
+- `presentations/` - PowerPoint and other presentation files (optional)
+- `guides/` - User manuals and technical guides (optional)
 
